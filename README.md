@@ -9,7 +9,7 @@ A new Flutter project.
   <strong>Halaman Login</strong>
 </p>
 <p align="center">
-  <img src="dasboard.png" width="300"/><br>
+  <img src="dashboard.png" width="300"/><br>
   <strong>Halaman Dashboard</strong>
 </p>
 <p align="center">
